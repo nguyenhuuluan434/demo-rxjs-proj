@@ -1,4 +1,19 @@
+# demo-rxjs-proj
+install project
 ```shell script
-npm install ---save-dev rxjs
-npm install --save-dev esm
-```# demo-rxjs-proj
+npm install
+```
+
+build project
+```shell script
+npm run build
+```
+
+start serve project
+```shell script
+npm start
+```
+
+webpack mode
+   - development
+   - production
